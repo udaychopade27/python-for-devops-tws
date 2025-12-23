@@ -1,0 +1,4 @@
+Log Analysis Summary for 'app.log':
+INFO messages: 10
+WARNING messages: 2
+ERROR messages: 3
